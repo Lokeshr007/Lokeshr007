@@ -1,8 +1,6 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <meta name="viewport" content="width=device-width">
-	<link rel="icon" type="images/x-jpeg" href=https://img.icons8.com/?size=100&id=RdVPPvuBjG6E&format=png&color=000000>
         <title>Table</title>
     </head>
     <style>
